@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Home() {
   return (
     <div>
-    <h1>Página Principal - Navegación</h1>
+    <h1>Navegación</h1>
     <p>Selecciona la sección que deseas visitar:</p>
     <nav>
         
